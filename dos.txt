@@ -1,3 +1,5 @@
 Línea uno de nuestro documento.
 
 Línea 2 de nuestro documento
+
+Ahora hacemos un cambio antes del commit a nuestro archivo.
